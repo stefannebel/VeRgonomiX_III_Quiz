@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3010650715350192834
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1954670493128898209, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493128898209, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493128898209, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493128898209, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493128898209, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493223392994, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Name
+      value: false
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493362881912, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Text
+      value: Pausengestaltung & Regeneration
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493362881912, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493362881913, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493399420411, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Name
+      value: true
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493583183705, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Text
+      value: "Wechselnde Arbeitst\xE4tigkeiten"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493583183705, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493593310292, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493593310292, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493593310292, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493593310292, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493593310292, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493672871580, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493672871580, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493672871580, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493672871580, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670493672871580, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494224225660, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494224225660, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494224225660, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494224225660, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494224225660, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494502278985, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Name
+      value: true
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494700477489, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Text
+      value: Lasttransporte zu zweit vornehmen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670494700477489, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670495056429433, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Text
+      value: "Lohnerh\xF6hungen als Ausgleich"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954670495056429433, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 5647056294001203147, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: RememberText
+      value: "Sprich mit Deiner vorgesetzten Stelle \xFCber m\xF6gliche Verbesserungen!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 104
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 742.9601
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -514.01996
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962278, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180496962279, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_Name
+      value: '#5'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178984180684630656, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
+      propertyPath: m_text
+      value: "Welche organisatorischen Ma\xDFnahmen eignen sich f\xFCr eine ergonomische
+        Arbeitsplatzgestaltung?"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9c63961569db9b64f9483ebf6647fac6, type: 3}
